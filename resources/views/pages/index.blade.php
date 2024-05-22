@@ -63,13 +63,13 @@
         ></div>
       </div>
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto max-w-2xl lg:mx-0">
+        <div class="mx-auto max-w-6xl lg:mx-0">
           {{--
             <p class="text-lg font-semibold leading-8 tracking-tight text-indigo-600">
             Deploy faster
             </p>
           --}}
-          <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">History</h1>
+          <h1 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">History</h1>
           <p class="mt-6 text-gray-700">
             On June 21, 1969, Republic Act 5702 was passed with the efforts of Senator Alejandro D.
             Almendras and Congressman Lorenzo P. Sarmiento, with the aim of establishing a National
@@ -89,6 +89,33 @@
             and Sergio Dalisay. In 2000, the Mindanao Integrated Surgical Residency Training Program
             was created in partnership with Southern Philippines Medical Center (SPMC), formerly
             known as Davao Medical Center (DMC).
+          </p>
+
+          <p class="mt-5">
+            On August 1, 2001, DRH acquired a license to operate with a capacity of 200 beds. Then
+            on August 26, 2015, Davao Regional Hospital was renamed Davao Regional Medical Center
+            (DRMC) due to Republic Act 10678 signed by President Benigno S. Aquino III. This act
+            increased the bed capacity from 300 to 600. In 2012, the Section of Orthopedics was
+            established and led by Dr. Sergio Dalisay, alongside Drs. Jeremiah Morales and Dan
+            Bagarra as staff members. When Dr. Dalisay retired in March 2022, Dr. Jeremiah Morales
+            was appointed as the new Head of the Section of Orthopaedics. During this time, the
+            Department of Health issued Department Order 2021-0001, designating DRMC as a Specialty
+            Center for 13 clinical specialties under the Philippine Health Facility Development Plan
+            of Republic Act No. 11223, also known as the Universal Health Care Act of 2019. As a
+            result, Orthopedic and Brain and Spine Centers were established at DRMC, leading to the
+            idea of creating a Residency Training program in Orthopedics. Efforts were made to
+            complete the orthopedic consultant staff with various subspecialties, as well as the
+            recruitment of resident physicians dedicated to orthopedic care. Temporary arrangements
+            were made for the Department of Surgery to oversee specific orthopedic areas until the
+            department became fully operational. President Rodrigo Roa Duterte signed Republic Act
+            11819 on June 29, 2023, which has increased the bed capacity of DRMC to 1000 beds. In
+            June 2023, the Section of Orthopedics officially separated from the Department of
+            Surgery, and Drs. Dan Bagarra and Alfred Villarico were appointed as the Department
+            Chair and Training Officer, respectively. The department now consists of various
+            consultant subspecialists, including Trauma, Spine, Hip & Knee, Hip Preservation, Hand &
+            Microvascular, Elbow and Shoulder, Sports Medicine and Arthroscopic Surgery, Pediatrics,
+            and Foot and Ankle. Additionally, the department has hired 5 in-training residents to
+            complete its staff.
           </p>
         </div>
         <div
@@ -116,56 +143,6 @@
                 fill="url(#e87443c8-56e4-4c20-9111-55b82fa704e3)"
               />
             </svg>
-            {{--
-              <figure class="border-l border-indigo-600 pl-8">
-              <blockquote class="text-xl font-semibold leading-8 tracking-tight text-gray-900">
-              <p>
-              “Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus
-              nibh ullamcorper ac dictum justo in euismod. Risus aenean ut elit massa. In amet
-              aliquet eget cras. Sem volutpat enim tristique.”
-              </p>
-              </blockquote>
-              <figcaption class="mt-8 flex gap-x-4">
-              <img
-              src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-              alt=""
-              class="mt-1 h-10 w-10 flex-none rounded-full bg-gray-50"
-              />
-              <div class="text-sm leading-6">
-              <div class="font-semibold text-gray-900">Brenna Goyette</div>
-              <div class="text-gray-600">@brenna</div>
-              </div>
-              </figcaption>
-              </figure>
-            --}}
-          </div>
-          <div class="max-w-xl text-base leading-7 text-gray-700 lg:col-span-7">
-            <p>
-              On August 1, 2001, DRH acquired a license to operate with a capacity of 200 beds. Then
-              on August 26, 2015, Davao Regional Hospital was renamed Davao Regional Medical Center
-              (DRMC) due to Republic Act 10678 signed by President Benigno S. Aquino III. This act
-              increased the bed capacity from 300 to 600. In 2012, the Section of Orthopedics was
-              established and led by Dr. Sergio Dalisay, alongside Drs. Jeremiah Morales and Dan
-              Bagarra as staff members. When Dr. Dalisay retired in March 2022, Dr. Jeremiah Morales
-              was appointed as the new Head of the Section of Orthopaedics. During this time, the
-              Department of Health issued Department Order 2021-0001, designating DRMC as a
-              Specialty Center for 13 clinical specialties under the Philippine Health Facility
-              Development Plan of Republic Act No. 11223, also known as the Universal Health Care
-              Act of 2019. As a result, Orthopedic and Brain and Spine Centers were established at
-              DRMC, leading to the idea of creating a Residency Training program in Orthopedics.
-              Efforts were made to complete the orthopedic consultant staff with various
-              subspecialties, as well as the recruitment of resident physicians dedicated to
-              orthopedic care. Temporary arrangements were made for the Department of Surgery to
-              oversee specific orthopedic areas until the department became fully operational.
-              President Rodrigo Roa Duterte signed Republic Act 11819 on June 29, 2023, which has
-              increased the bed capacity of DRMC to 1000 beds. In June 2023, the Section of
-              Orthopedics officially separated from the Department of Surgery, and Drs. Dan Bagarra
-              and Alfred Villarico were appointed as the Department Chair and Training Officer,
-              respectively. The department now consists of various consultant subspecialists,
-              including Trauma, Spine, Hip & Knee, Hip Preservation, Hand & Microvascular, Elbow and
-              Shoulder, Sports Medicine and Arthroscopic Surgery, Pediatrics, and Foot and Ankle.
-              Additionally, the department has hired 5 in-training residents to complete its staff.
-            </p>
           </div>
         </div>
       </div>
@@ -320,6 +297,542 @@
           </div>
         </div>
       </main>
+    </div>
+  </section>
+  {{-- core values --}}
+  <section>
+    <div class="overflow-hidden bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div
+          class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2"
+        >
+          <div class="lg:ml-auto lg:pl-4 lg:pt-4">
+            <div class="lg:max-w-lg">
+              <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                Core Values
+              </p>
+              <p class="mt-6 text-lg leading-8 text-gray-600"></p>
+              <p class="mt-6 text-lg leading-8 text-gray-600">
+                DRMC-ORTHO is guided by its core values of Determination, Respect, Motivation,
+                Compassion, Honesty, responsibility, and transparency.
+              </p>
+              <dl class="mt-10 max-w-xl text-base text-gray-600 lg:max-w-none">
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">D -</dt>
+                  <dd class="inline">Determination</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">R -</dt>
+                  <dd class="inline">Respect</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">M -</dt>
+                  <dd class="inline">Motivation</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">C -</dt>
+                  <dd class="inline">Compassionate</dd>
+                </div>
+                <div class="relative pl-9 mt-5">
+                  <dt class="inline font-semibold text-xl text-gray-900">O -</dt>
+                  <dd class="inline">Outstanding</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">R -</dt>
+                  <dd class="inline">Responsibility</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">H -</dt>
+                  <dd class="inline">Honesty</dd>
+                </div>
+                <div class="relative pl-9">
+                  <dt class="inline font-semibold text-xl text-gray-900">O -</dt>
+                  <dd class="inline">Optimism</dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+          <div class="flex items-start justify-end lg:order-first">
+            <img
+              src="{{ asset('images/image-10.jpg') }}"
+              alt="Product screenshot"
+              class="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
+              width="2432"
+              height="1442"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{-- clinical services --}}
+  <section>
+    <div class="bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:text-center">
+          <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+            Clinical Services
+          </h1>
+          <p class="mt-6 text-lg leading-8 text-gray-600">
+            We offer a wide range of clinical services, including consultations with expert
+            physicians, diagnostic tests, and treatment plans tailored to each individual's needs.
+          </p>
+        </div>
+        <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+          <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                General Orthopaedics
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Daily- 8:00 AM- 4:00 PM Daily</p>
+              </dd>
+            </div>
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                Hand & Microvascular Clinic
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Monday- 1:00 PM- 3:00 PM</p>
+              </dd>
+            </div>
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                Paediatric Orthopaedic (CLUBFOOT CLINIC)
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Tuesday- 1:00 PM- 3:00 PM</p>
+              </dd>
+            </div>
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                Spine Clinic
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Wednesday- 1:00 PM- 3:00 PM</p>
+              </dd>
+            </div>
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                5. Foot & Ankle Clinic Hip & Knee Clinic
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Thursday- 1:00 PM- 3:00 PM</p>
+              </dd>
+            </div>
+            <div class="flex flex-col">
+              <dt class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900">
+                Sports Medicine Elbow & Shoulder Surgery Orthopaedic Oncology
+              </dt>
+              <dd class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                <p class="flex-auto text-lg">Friday- 1:00 PM- 3:00 PM</p>
+              </dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{-- training program --}}
+  <section>
+    <div class="bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div
+          class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3"
+        >
+          <div>
+            <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Residency Training Program
+            </p>
+            <p class="mt-6 text-base leading-7 text-gray-600">
+              Requirements for admission into the residency training program
+            </p>
+          </div>
+          <dl
+            class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16"
+          >
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                Degree of Doctor of Medicine from an accredited college or university
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                Certificate of Completion of the Internship Program from an accredited hospital
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                Passed the Physicians' Licensure Examination conducted by the Board of Medicine of
+                the Professional Regulation Commission
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                Comply with DRMC PETU requirements
+              </dt>
+            </div>
+          </dl>
+          <p class="mt-6 text-base leading-7 text-gray-600 font-bold">
+            Only applicants with the following characteristics shall be considered for admission
+          </p>
+          <dl
+            class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16"
+          >
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                Filipino citizen
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                With good moral character
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                In good physical health
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                With the personality and attitudes considered suitable for a career in health
+              </dt>
+            </div>
+          </dl>
+        </div>
+        <p class="mt-10 text-base leading-7 text-gray-600">
+          The residency program starts on January 1 and July 1 (Midyear). An accepted applicant who
+          fails to start his residency forfeits his slot in the program.
+        </p>
+        <p class="mt-6 text-base leading-7 text-gray-600">
+          The training Committee of the department reserves the right to refuse admission to any
+          applicant.
+        </p>
+        <p class="mt-6 text-base leading-7 text-gray-600">
+          Pre-Residency Screening Program or adjunctship starts on October 1 for January applicants
+          and April 1 for July applicants. It will be a 1 month program with the applicant rotating
+          to all major trauma services of the department.
+        </p>
+      </div>
+    </div>
+  </section>
+  {{-- application procedure --}}
+  <section>
+    <div class="bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div
+          class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3"
+        >
+          <div>
+            <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Application Process
+            </p>
+            <p class="mt-6 text-base leading-7 text-gray-600">
+              The Applicant secures an application from the office of the department
+            </p>
+            <p class="mt-6 text-base leading-7 text-gray-600">
+              The completed form is submitted to the same office together with following required
+              documents
+            </p>
+          </div>
+          <dl
+            class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16"
+          >
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                1 passport-sized pictures
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 photocopies of Medical Transcript of Records
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 photocopies of Medical Diploma
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 copies of certificates of class rank and General Weighted Average if applicable
+                from the Office of the Dean of Medical School
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 photocopies of Certificate of Internship
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 photocopies of Neuropsychiatric Test from DOH-accredited testing centers
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 Letters of Recommendation (from previous employer if applicable)
+              </dt>
+            </div>
+            <div class="relative pl-9">
+              <dt class="font-semibold text-gray-900">
+                <svg
+                  class="absolute left-0 top-1 h-5 w-5 text-indigo-500"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+                2 letters of Good Moral Character from office of the Dean of Medical School
+              </dt>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{-- contact --}}
+  <section>
+    <div class="bg-white py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl space-y-16 divide-y divide-gray-100 lg:mx-0 lg:max-w-none">
+          <div class="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-3">
+            <div>
+              <h2 class="text-3xl font-bold tracking-tight text-gray-900">Get in touch</h2>
+              <p class="mt-4 leading-7 text-gray-600">Contact us through the following details</p>
+            </div>
+            <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:col-span-2 lg:gap-8">
+              <div class="rounded-2xl bg-gray-50 p-10">
+                <h3 class="text-base font-semibold leading-7 text-gray-900">
+                  Department of Orthopaedics Apokon Road, 8100 Tagum City, Davao del Norte,
+                  PHILIPPINES
+                </h3>
+                <dl class="mt-3 space-y-1 text-sm leading-6 text-gray-600">
+                  <div>
+                    <dt class="sr-only">Email</dt>
+                    <dd>
+                      <a
+                        class="font-semibold text-indigo-600"
+                        href="mailto:drmc.orthopaedics@gmail.com"
+                      >
+                        drmc.orthopaedics@gmail.com
+                      </a>
+                    </dd>
+                  </div>
+                  <div class="mt-1">
+                    <dt class="sr-only">Telephone number</dt>
+                    <p>Telephone number</p>
+                    <dd>(084) 829 7120 local 861</dd>
+                  </div>
+                </dl>
+              </div>
+              <div class="rounded-2xl bg-gray-50 p-10">
+                <h3 class="text-base font-semibold leading-7 text-gray-900">Telefax</h3>
+                <dl class="mt-3 space-y-1 text-sm leading-6 text-gray-600">
+                  <div class="mt-1">
+                    <dt class="sr-only">Phone number</dt>
+                    <dd>(084) 216 9148</dd>
+                    <p>Website</p>
+                    <a
+                      class="font-semibold text-indigo-600"
+                      href="https://www.drmcorthopaedics.com"
+                    >
+                      https://www.drmcorthopaedics.com
+                    </a>
+                  </div>
+                </dl>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 @endsection
