@@ -10,18 +10,18 @@
       <img
         src="{{ asset('images/image-12.jpg') }}"
         alt=""
-        class="absolute inset-0 -z-10 h-full w-full object-cover filter blur-md opacity-50"
+        class="absolute inset-0 -z-10 h-full w-full object-cover filter blur-md opacity-70"
       />
 
       <div
         class="absolute -top-52 left-1/2 -z-10 -translate-x-1/2 transform-gpu blur-3xl sm:top-[-28rem] sm:ml-16 sm:translate-x-0 sm:transform-gpu"
         aria-hidden="true"
       ></div>
-      <div class="mx-auto max-w-2xl text-center">
-        <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">
+      <div class="mx-auto max-w-4xl text-center">
+        <h1 class="text-6xl font-bold tracking-tight text-white sm:text-8xl">
           Excellence in Orthopaedics
-        </h2>
-        <p class="mt-6 text-xl leading-6 text-gray-300">
+        </h1>
+        <p class="mt-6 text-3xl leading-6 text-gray-300">
           We are an Orthopaedics referral center that specializes in treating disorders related to
           bones, joints, and the musculoskeletal system in children and adults. Our center is
           equipped with state-of-the-art facilities and staffed with a team of highly knowledgeable
@@ -70,7 +70,7 @@
             </p>
           --}}
           <h1 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">History</h1>
-          <p class="mt-6 text-gray-700">
+          <p class="mt-6 text-xl text-gray-700">
             On June 21, 1969, Republic Act 5702 was passed with the efforts of Senator Alejandro D.
             Almendras and Congressman Lorenzo P. Sarmiento, with the aim of establishing a National
             Hospital in the Municipality of Magugpo (now Tagum City) in the Province of Davao. The
@@ -91,7 +91,7 @@
             known as Davao Medical Center (DMC).
           </p>
 
-          <p class="mt-5">
+          <p class="mt-5 text-xl text-gray-700">
             On August 1, 2001, DRH acquired a license to operate with a capacity of 200 beds. Then
             on August 26, 2015, Davao Regional Hospital was renamed Davao Regional Medical Center
             (DRMC) due to Republic Act 10678 signed by President Benigno S. Aquino III. This act
